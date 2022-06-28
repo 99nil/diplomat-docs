@@ -6,18 +6,22 @@
 │   │   ├── dist 打包后的文件
 │   │   └── config.js 基础配置
 │   ├── doc-1 功能模块英文文档 doc-1
+│   │    ├── README.md (文件夹必须文件)
 │   │    ├── doc1-1.md
 │   │    └── doc1-2.md
-│   ├── doc-2.md
+│   ├── doc-2
+│   │    └── README.md
 │   │
 │   ├── zh 中文归档
 │   │   ├── doc-1 
+│   │   │   ├── README.md
 │   │   │   ├── doc1-1.md
 │   │   │   └── doc1-2.md
-│   │   └── doc-2.md
+│   │   ├── doc-2
+│   │   │   └── README.md
+│   │   └── README.md
 │   │
-│   ├── README.md
-│   └── config.md
+│   └── README.md
 │ 
 ├── deploy.sh 部署配置
 ├── package.json
