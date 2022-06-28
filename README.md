@@ -28,7 +28,7 @@
 # 支持多语言
 
 当前多语言支持英文与中文。默认为英文。
-如需对多语言进行相关的配置，在 docs/.vuepress/config.js 文件中配置。
+如需对多语言进行相关的配置，在 `docs/.vuepress/config.js` 文件中配置。
 
 ### 英文文档存放位置
 `/docs/` 文件夹
@@ -38,7 +38,7 @@
 <br></br>
 
 # 左侧栏配置
-因当前支持多语言，所以添加文档时，需要在  docs/.vuepress/config.js 文件中 themeConfig.locales 中对多个语言配置文档的菜单导航。
+因当前支持多语言，所以添加文档时，需要在  `docs/.vuepress/config.js` 文件中 `themeConfig.locales` 中对多个语言配置文档的菜单导航。
 <br></br>
 
 # 添加一个文档
@@ -46,15 +46,15 @@
 
 ## 创建英文文档
 
-  在 /docs/ 下创建 /guide/ 文件夹，/guide/ 下创建 README.md 和 test.md,其中 README.md 为文件夹默认文件，每个文件夹中必须有此文件。
+  在 `/docs/` 下创建 `/guide/` 文件夹，`/guide/` 下创建 `README.md` 和 `test.md`，其中 `README.md` 为文件夹默认文件，每个文件夹中必须有此文件。
   
 ## 创建中文文档
 
-  在 /docs/zh/ 下创建 /guide/ 文件夹，/guide/ 下创建 README.md 和 test.md,其中 README.md 为文件夹默认文件，每个文件夹中必须有此文件。
-  文件需与英文文件目录 /docs/guide/ 的文件一致。
+  在 `/docs/zh/` 下创建 `/guide/` 文件夹，`/guide/` 下创建 `README.md` 和 `test.md`,其中` README.md` 为文件夹默认文件，每个文件夹中必须有此文件。
+  文件需与英文文件目录 `/docs/guide/` 的文件一致。
 
 ## 头部添加导航
-在 docs/.vuepress/config.js 文件下 themeConfig.locales 中，在多语言导航配置 `nav`中均添加 guide 导航：
+在 `docs/.vuepress/config.js` 文件下 `themeConfig.locales` 中，在多语言导航配置 `nav`中均添加 guide 导航：
 ```
 docs/.vuepress/config.js:
 
@@ -80,7 +80,7 @@ themeConfig: {
 
 ## 添加文件的导航
 目前暂未使用自动化生成导航，先需要手动添加
-在 docs/.vuepress/config.js 文件下 themeConfig.locales 中的 `/` 和 `/zh/` 下的 `sidebar` 分别添加添加:
+在 `docs/.vuepress/config.js` 文件下 `themeConfig.locales` 中的 `/` 和 `/zh/` 下的 `sidebar` 分别添加添加:
 
 ```
 docs/.vuepress/config.js:
