@@ -3,7 +3,7 @@
  * @Descripttion: 配置文件
  * @Date: 2022-06-28 15:06:12
  * @LastEditors: gezuxia
- * @LastEditTime: 2022-06-28 22:54:49
+ * @LastEditTime: 2022-06-28 23:24:13
  */
 module.exports = {
   base: '/diplomat-document/', // 部署到 github 相关的配置
@@ -27,8 +27,8 @@ module.exports = {
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
     // 多语言
     locales: {
-       '/': {
-         nav: [
+      '/': {
+        nav: [
           { text: 'Document', link: '/diplomat/' },
           { text: 'About Us', link: '/about-us/' },
           { text: 'GitHub', link: 'https://github.com/99nil/diplomat-document' } 
@@ -76,7 +76,7 @@ module.exports = {
               path: '/zh/diplomat/',
             },
           ],
-           '/zh/about-us/': [
+          '/zh/about-us/': [
             {
               title: '介绍',
               path: '/zh/about-us/',
@@ -87,8 +87,7 @@ module.exports = {
             },
           ],
         }
-      }
-
+      },
     }
   },
   
