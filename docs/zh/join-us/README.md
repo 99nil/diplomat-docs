@@ -28,7 +28,7 @@ lang: zh-CN
 
 ![提交 Issue](/docs/images/issues_2.jpg)
 
-## 如何给 `外交官` 提 PR
+## 如何提 PR
 下面开始介绍如何给 `外交官` 提 PR 啦~
 
 ### 准备 GitHub 账号
