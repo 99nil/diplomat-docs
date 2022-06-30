@@ -1,3 +1,16 @@
+# 运行项目
+## 安装依赖
+```
+npm install
+```
+## 运行项目
+```
+npm run docs:dev
+```
+### 构建项目
+```
+npm run docs:build
+```
 # 文件目录
 ```
 ├── docs
