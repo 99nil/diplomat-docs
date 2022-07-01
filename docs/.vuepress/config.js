@@ -3,12 +3,12 @@
  * @Descripttion: 配置文件
  * @Date: 2022-06-28 15:06:12
  * @LastEditors: gezuxia
- * @LastEditTime: 2022-06-30 21:31:12
+ * @LastEditTime: 2022-07-01 22:12:20
  */
 module.exports = {
   base: '/diplomat-document/', // 部署到 github 相关的配置
    markdown: {
-    lineNumbers: true // 代码块显示行号
+    lineNumbers: false // 代码块显示行号
   },
   locales: {
     '/': {
