@@ -1,20 +1,21 @@
 ---
-title: Join us
+title: 加入我们
 lang: en-US
 ---
 Diplomat，是由几位具有丰富的开源经验、边缘计算经验的开发者发起，于 2022 年 6 月正式启动。
-如果您对「边缘计算」感兴趣或有建设性的建议等，外交官期待您的加入和贡献，与大家一起为外交官添砖加瓦，共同建设「边缘计算」开源框架。
+如果您对「边缘计算」感兴趣或有建设性的建议，或成为其中一员等，外交官期待您的加入和贡献，一起添砖加瓦，共同建设和维护「边缘计算」开源框架 —— 外交官。
 
 # 外交官基础信息
-### 负责人
-* 郑策 [GitHub](https://github.com/zc2638)
-* 王梓龙 [GitHub](https://github.com/TianTianBigWang)
-* 孟旭东 [GitHub](https://github.com/MXuDong)
-* 葛祖霞 [GitHub](https://github.com/zc2638)
+### 核心负责人
+* 郑策， 前 DaoCloud 边缘计算架构，kubeEdge Maintainer 等，[GitHub](https://github.com/zc2638)
+* 王梓龙，前 DaoCloud 开源技术专家，kubeEdge Maintainer，[GitHub](https://github.com/TianTianBigWang)
+* 孟旭东，Istio Member，[GitHub](https://github.com/MXuDong)
+* 葛祖霞，kubeEdge Member，Istio Member，[GitHub](https://github.com/zc2638)
 
 📢 如有任何问题，可联系他们
 
 ### 相关链接
+
 [GitHub 仓库](https://github.com/99nil/diplomat)
 
 [任务(问题)一览表](https://github.com/orgs/99nil/projects/7)
@@ -29,11 +30,11 @@ Diplomat，是由几位具有丰富的开源经验、边缘计算经验的开发
 
 1. 点击 [New Issue](https://github.com/99nil/diplomat/issues) 创建新的 Issue
 
-![创建新的 Issue](/images/issues_1.jpg)
+<img :src="$withBase('/images/issues_1.jpg')" alt="创建 Issues"></img>
 
 2. 提交 Issue
 
-![提交 Issue](/images/issues_2.jpg)
+<img :src="$withBase('/images/issues_2.jpg')" alt="提交 Issue"></img>
 提交后，您可以在 Issues 中看到您的提交，相关负责人会第一时间审核并处理，后续可关注一下。
 
 ## 参与协作开发
@@ -48,12 +49,13 @@ Diplomat，是由几位具有丰富的开源经验、边缘计算经验的开发
 1. 领取任务
 
   在 `issue` 中的 `Assignees` 指定负责人，可选多个：
-  ![领取任务](/images/issue_assignees.jpg)
+  <img :src="$withBase('/images/issue_assignees.jpg')" alt="领取任务"></img>
 
 2. 查看任务
 
   为方便查看任务，领取任务后，可在[任务一览表](https://github.com/orgs/99nil/projects/7)中查看与你相关的任务：
-  ![领取任务](/images/tasks.jpg)
+  <img :src="$withBase('/images/tasks.jpg')" alt="查看任务"></img>
+
 
 ### 变更任务状态
    领取任务后，在对应的 `issue` 中更新任务的状态。
@@ -68,7 +70,7 @@ Diplomat，是由几位具有丰富的开源经验、边缘计算经验的开发
   1. 变更任务状态
 
   在 `issue` 中变更状态：
-  ![修改任务状态](/images/issue_status.jpg)
+  <img :src="$withBase('/images/issue_status.jpg')" alt="修改任务状态"></img>
 
   2. 查看任务
     
@@ -78,15 +80,15 @@ Diplomat，是由几位具有丰富的开源经验、边缘计算经验的开发
 Fork 是服务端代码仓的克隆，通俗来说，是把目标代码仓克隆到自己的代码仓上，新的代码仓包含了源仓的的所有内容，如分支、Tag、提交等。我们称源仓为`上游仓库`，即 `upstream repository`。
 
 1. 点击 Fork
-    ![点击 fork](/images/fork.jpg)
+    <img :src="$withBase('/images/fork.jpg')" alt="点击 fork"></img>
 
 2. 创建 Fork
-    ![创建 fork](/images/fork_create.jpg)
+    <img :src="$withBase('/images/fork_create.jpg')" alt="创建 fork"></img>
   
 3. 完成 Fork
 
     fork 完成后，我们会看见目标代码仓挂在了自己的 `Github` 仓库上，我们的 GitHub 仓库多了一个`新的目标仓库`，这时`源代码仓`成为了`上游仓库`，后续开发需要在`新的代码仓`上进行，接下来就可以基于`新的目标仓库`进行标准流程的开发啦~
-    ![完成 fork](/images/forked.jpg)
+    <img :src="$withBase('/images/forked.jpg')" alt="完成 fork"></img>
 
 ### 协作开发和提交 PR
 1. `clone` 远程仓库项目到本地
@@ -142,12 +144,12 @@ Fork 是服务端代码仓的克隆，通俗来说，是把目标代码仓克隆
   * 创建 PR
 
     进入您的远程仓库代码仓下，点击「Pull requests」面板，点击「New pull request」来创建一个 `PR`：
-    ![点击创建新的 PR](/images/pr_1.jpg)
+    <img :src="$withBase('/images/pr_1.jpg')" alt="点击创建新的 PR"></img>
 
   * 选择需要要合并到上游仓库的分支
 
     点击「New pull request」后，页面会跳转到`上游代码仓`，并让您选择您要合并到分支，此时，选择要合并分支：
-    ![选择要合并的分支](/images/pr_2.jpg)
+    <img :src="$withBase('/images/pr_2.jpg')" alt="选择要合并的分支"></img>
 
   * 创建 PR
 
@@ -161,7 +163,7 @@ Fork 是服务端代码仓的克隆，通俗来说，是把目标代码仓克隆
   同步上游代码仓有两种方式：`GitHub` 上界面操作、命令行同步
   * GitHub 上界面操作
 
-      ![github](/images/upstream_fetch.jpg)
+      <img :src="$withBase('/images/upstream_fetch.jpg')" alt="GitHub"></img>
   
   * 命令行进行同步
 
