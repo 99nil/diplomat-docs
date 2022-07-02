@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/99nil/diplomat-document.git"
+    "url": "git+ssh://git@github.com/99nil/diplomat-docs.git"
   },
   "author": "gezuxia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/99nil/diplomat-document/issues"
+    "url": "https://github.com/99nil/diplomat-docs/issues"
   },
-  "homepage": "https://github.com/99nil/diplomat-document#readme",
+  "homepage": "https://github.com/99nil/diplomat-docs#readme",
   "devDependencies": {
     "vuepress": "^1.9.7"
   }

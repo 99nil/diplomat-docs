@@ -3,10 +3,10 @@
  * @Descripttion: 配置文件
  * @Date: 2022-06-28 15:06:12
  * @LastEditors: gezuxia
- * @LastEditTime: 2022-07-01 22:12:20
+ * @LastEditTime: 2022-07-02 22:07:38
  */
 module.exports = {
-  base: '/diplomat-document/', // 部署到 github 相关的配置
+  base: '/diplomat-docs/', // 部署到 github 相关的配置
    markdown: {
     lineNumbers: false // 代码块显示行号
   },
@@ -32,7 +32,7 @@ module.exports = {
           { text: 'Document', link: '/diplomat/' },
           { text: 'About Us', link: '/about-us/' },
           { text: 'Join Us', link: '/join-us/' },
-          { text: 'GitHub', link: 'https://github.com/99nil/diplomat-document' } 
+          { text: 'GitHub', link: 'https://github.com/99nil/diplomat-docs' } 
         ],
         selectText: 'Languages',
         label: 'English',
@@ -63,7 +63,7 @@ module.exports = {
           { text: '文档', link: '/zh/diplomat/' },
           { text: '团队介绍', link: '/zh/about-us/' },
           { text: '加入我们', link: '/zh/join-us/' },
-          { text: 'GitHub', link: 'https://github.com/99nil/diplomat-document' } 
+          { text: 'GitHub', link: 'https://github.com/99nil/diplomat-docs' } 
         ],
         // 多语言下拉菜单的标题
         selectText: '选择语言',
