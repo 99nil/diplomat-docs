@@ -1,4 +1,11 @@
 #!/usr/bin/env sh
+###
+ # @Author: gezuxia
+ # @Descripttion: 
+ # @Date: 2022-06-28 15:26:55
+ # @LastEditors: gezuxia
+ # @LastEditTime: 2022-07-02 23:27:38
+### 
 # 确保脚本抛出遇到的错误
 set -e
 # 生成静态文件

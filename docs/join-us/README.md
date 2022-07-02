@@ -14,7 +14,7 @@ Diplomat，是由几位具有丰富的开源经验、边缘计算经验的开发
 
 📢 如有任何问题，可联系他们
 
-### 外交官相关信息
+### 相关链接
 [GitHub 仓库](https://github.com/99nil/diplomat)
 
 [任务(问题)一览表](https://github.com/orgs/99nil/projects/7)

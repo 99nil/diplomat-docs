@@ -14,7 +14,8 @@ lang: zh-CN
 
 📢 如有任何问题，可联系他们
 
-### 外交官相关信息
+### 相关链接
+
 [GitHub 仓库](https://github.com/99nil/diplomat)
 
 [任务(问题)一览表](https://github.com/orgs/99nil/projects/7)
@@ -29,7 +30,7 @@ lang: zh-CN
 
 1. 点击 [New Issue](https://github.com/99nil/diplomat/issues) 创建新的 Issue
 
-![创建新的 Issue](/images/issues_1.jpg)
+![创建新的 Issue](./images/issues_1.jpg)
 
 2. 提交 Issue
 
