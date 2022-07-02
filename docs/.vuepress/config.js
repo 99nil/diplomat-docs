@@ -3,7 +3,7 @@
  * @Descripttion: 配置文件
  * @Date: 2022-06-28 15:06:12
  * @LastEditors: gezuxia
- * @LastEditTime: 2022-07-03 00:30:41
+ * @LastEditTime: 2022-07-03 00:35:50
  */
 module.exports = {
   base: '/diplomat-docs/', // 部署到 github 相关的配置
@@ -24,7 +24,7 @@ module.exports = {
   },
   themeConfig: {
     // sidebarDepth: 2, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
-    lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
+    // lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
     // 多语言
     locales: {
       '/': {
