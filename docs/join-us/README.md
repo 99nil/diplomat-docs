@@ -10,7 +10,7 @@ Diplomat，是由几位具有丰富的开源经验、边缘计算经验的开发
 * 郑策， 前 DaoCloud 边缘计算架构，kubeEdge Maintainer 等，[GitHub](https://github.com/zc2638)
 * 王梓龙，前 DaoCloud 开源技术专家，kubeEdge Maintainer，[GitHub](https://github.com/TianTianBigWang)
 * 孟旭东，Istio Member，[GitHub](https://github.com/MXuDong)
-* 葛祖霞，kubeEdge Member，Istio Member，[GitHub](https://github.com/zc2638)
+* 葛祖霞，kubeEdge Member，Istio Member，[GitHub](https://github.com/orangegzx)
 
 📢 如有任何问题，可联系他们
 

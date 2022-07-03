@@ -1,6 +1,7 @@
 ---
 title: 加入我们
 lang: zh-CN
+# sidebar: auto 自动生成一个仅仅包含了当前页面标题（headers）链接的侧边栏
 ---
 外交官，是由几位具有丰富的开源经验、边缘计算经验的开发者发起，于 2022 年 6 月正式启动。
 如果您对「边缘计算」感兴趣或有建设性的建议，或成为其中一员等，外交官期待您的加入和贡献，一起添砖加瓦，共同建设和维护「边缘计算」开源框架 —— 外交官。
@@ -10,7 +11,7 @@ lang: zh-CN
 * 郑策， 前 DaoCloud 边缘计算架构，kubeEdge Maintainer 等，[GitHub](https://github.com/zc2638)
 * 王梓龙，前 DaoCloud 开源技术专家，kubeEdge Maintainer，[GitHub](https://github.com/TianTianBigWang)
 * 孟旭东，Istio Member，[GitHub](https://github.com/MXuDong)
-* 葛祖霞，kubeEdge Member，Istio Member，[GitHub](https://github.com/zc2638)
+* 葛祖霞，kubeEdge Member，Istio Member，[GitHub](https://github.com/orangegzx)
 
 📢 如有任何问题，可联系他们
 
